@@ -89,7 +89,7 @@
 * Added Automatic Backup System (configurable at backup.bat) (7.4 - 7.6 - 7.7).
 * Added Bank System (Deposit, Withdraw, Transfer) (7.4 - 7.6 - 7.7).
 * Added Bless System (7.4 - 7.6 - 7.7).
-* Added Exp Formula Type System (7.4 - 7.6 - 7.7). ** 
+* Added Exp Formula Type System (7.4 - 7.6 - 7.7). **
 
 ** (Original Tibia Exp formula, Tibianic Exp formula, MasterCores Exp formula)
 
